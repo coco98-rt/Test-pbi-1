@@ -1,0 +1,12 @@
+{
+  "name": "Zip",
+  "dataType": "string",
+  "sourceColumn": "Zip",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ProductID",
+  "dataType": "int64",
+  "sourceColumn": "ProductID",
+  "formatString": "0",
+  "summarizeBy": "count",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

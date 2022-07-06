@@ -1,0 +1,22 @@
+{
+  "name": "CA Sales",
+  "partitions": [
+    {
+      "name": "CA Sales-3706b3f7-f765-4186-9183-4d8de89e2163",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

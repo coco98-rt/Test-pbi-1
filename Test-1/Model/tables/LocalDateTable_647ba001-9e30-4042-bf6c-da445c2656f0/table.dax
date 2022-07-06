@@ -1,0 +1,1 @@
+Calendar(Date(Year(MIN('CA Sales'[Date])), 1, 1), Date(Year(MAX('CA Sales'[Date])), 12, 31))
